@@ -4,7 +4,7 @@ ReachView is a web-interface for RTKLIB hosted on Emlid Reach receivers. For mor
 
 ### Running/testing/debugging instructions
 
-At the moment ReachView will only run on a Reach/Intel Edison flashed with our pre-built image. Flashing instructions and the image can be found [here](https://docs.emlid.com/reach/firmware-reflashing/).
+At the moment ReachView will only run on a Reach/Intel Edison flashed with our pre-built image. Flashing instructions and the image can be found [here](https://docs.emlid.com/reach/common/reachview/firmware-reflashing/).
 
 ReachView is started on device power up.
 
